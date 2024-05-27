@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Pedro
-- 🎓 Computer Engineering student
+<center>
+<h1>About me</h1>
+
+
+<h2>- 👋 Hi, I’m Pedro</h2>
+<h2>- 🎓 Computer Engineering student</h2>
+
+</center>
 
 <!---
 Psaa70/Psaa70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

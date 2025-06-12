@@ -12,4 +12,4 @@
 </center>
 
 <h2>🗓️ Events I participated in</h2>
-[HackUDC-2025](https://hackudc.gpul.org/)
+<a href="https://hackudc.gpul.org">HackUDC 2025</a>

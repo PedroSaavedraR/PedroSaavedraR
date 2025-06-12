@@ -12,5 +12,5 @@
 </center>
 
 <h2>🗓️ Events I participated in</h2>
-<a href="[https://hackudc.gpul.org](https://citic.udc.es/citic-cyber-competition-c3tf-la-competicion-de-ciberseguridad-que-pone-a-prueba-las-habilidades-de-los-estudiantes/)"> 🚩 Capture the Flag - C3TF</a>
+<a href="https://citic.udc.es/citic-cyber-competition-c3tf-la-competicion-de-ciberseguridad-que-pone-a-prueba-las-habilidades-de-los-estudiantes/"> 🚩 Capture the Flag - C3TF</a>__
 <a href="https://hackudc.gpul.org"> 💻 HackUDC 2025</a>

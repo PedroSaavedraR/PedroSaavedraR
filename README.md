@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Profile
-Third-year Computer Engineering student currently on an Erasmus exchange program at the University of Stuttgart. I have a strong interest in hardware, computing, computer graphics, and low-level systems. My primary focus lies in IoT, computer architecture, and system-level concepts, driven by a passion for understanding how computers work at their core.
+Fourth-year Computer Engineering student currently on an Erasmus exchange program at the University of Stuttgart. I have a strong interest in hardware, computing, computer graphics, and low-level systems. My primary focus lies in IoT, computer architecture, and system-level concepts, driven by a passion for understanding how computers work at their core.
 
 ---
 
